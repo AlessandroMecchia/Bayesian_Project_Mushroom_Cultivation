@@ -17,9 +17,11 @@ h5py = "*"
 ipykernel = "*"
 graphviz = "*"
 nbdime = "*"
+plotly = "*"
 
 [dev-packages]
 pytest = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
