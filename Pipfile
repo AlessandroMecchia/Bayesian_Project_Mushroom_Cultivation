@@ -18,6 +18,7 @@ ipykernel = "*"
 graphviz = "*"
 nbdime = "*"
 plotly = "*"
+statsmodels = "*"
 
 [dev-packages]
 pytest = "*"
